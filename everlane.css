@@ -1,0 +1,108 @@
+
+#page-wrap{
+	height: 100%;
+	width: 100%;
+    color: #fff;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 13px;
+    padding-top: 20px;
+    margin-left: 15px;
+}
+
+.shipping {
+    float: left;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: -25px;
+    color: white;
+}
+
+.sign {
+    float: right;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: -25px;
+    margin-right: 60px;
+    color: white;
+}
+
+#top {
+    height: 50px;
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+
+ul li {
+    display: inline-block;
+    opacity: 1;
+    font-size: 13px;
+    margin-right: 70px;
+    text-transform: uppercase;
+    word-spacing: 100px;
+    color: white;
+}
+}
+
+#info {
+    text-align: center;
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+}
+
+#outwear {
+    font-family: 'Averia Serif Libre', cursive;
+    font-size: 52px;
+    line-height: 133px;
+    letter-spacing: 5px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.click {
+    width: 100px;
+    height: 30px;
+    display: block;
+    background: #fff;
+    text-align: center;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {
+    color: grey;
+    opacity: 1;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
